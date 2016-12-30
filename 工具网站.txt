@@ -1,0 +1,24 @@
+# 一些有用的网站
+
+## 代码转换
+[HTML转Jade](http://html2jade.org/)  
+
+## 手册
+[HTML特殊字符](http://www.cnblogs.com/huobazi/archive/2004/08/18/34377.html)    
+[浏览器User Agent](http://www.useragentstring.com/pages/useragentstring.php)  
+[浏览器错误代码](http://bbs.360safe.com/forum.php?mod=viewthread&tid=1031795&page=1#pid8242889)  
+[颜色表](http://www.5tu.cn/colors/yansebiao.html)  
+
+## 代码处理
+[CSS3加前缀](http://pleeease.io/play/)  
+[在线HTML/CSS/JS压缩](http://tool.oschina.net/jscompress)  
+[JS Uglify](http://skalman.github.io/UglifyJS-online/)  
+[Online JSLint](http://www.javascriptlint.com/online_lint.php)  
+[Online JSHint](http://jshint.com/)  
+
+## 代码校验
+[图片压缩](https://tinypng.com/) 
+[JS性能对比](http://jsperf.com/)  
+
+## 其他
+[在线作图工具](https://www.processon.com/diagrams)  
